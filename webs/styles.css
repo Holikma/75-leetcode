@@ -1,0 +1,10 @@
+
+
+.menu::before {
+    position: absolute;
+    background-color: green;
+    width: 50%;
+    content: "text";
+
+    
+}
