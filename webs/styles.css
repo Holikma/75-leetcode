@@ -19,9 +19,13 @@ body{
     list-style: none;
     border: 50px;
     display: inline;
+    padding:8px;
+    text-align: center;
 }
 
-
+.navbar .li a::hover{
+    background-color: black;
+}
 .introduction {
     position: static;
     background-color: blueviolet;
