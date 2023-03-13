@@ -1,14 +1,46 @@
-.menu {
-    position:static;
-    padding: 15%;
+body{
+    background-color: orangered;
+}
+.container{
+    position: relative;
+    width:auto;
+}
+.navbar {
+    position: relative;
     background-color: rgb(19, 192, 140);
-    width: 70%;
 }
 
-ul{
+.navbar ul{
     list-style: none;
     padding:0%;
     margin:0;
-    display: block;
+}
+.navbar li{
+    list-style: none;
+    border: 50px;
+    display: inline;
 }
 
+
+.introduction {
+    position: static;
+    background-color: blueviolet;
+    top: 7px;
+    left:16px;
+    font-size: 50px;
+}
+.About{
+    position:static;
+    background-color: blue;
+
+}
+
+.Sports{
+    position:static;
+    background-color: black;
+    color:white;
+}
+
+.footer{
+    display: inline;
+}
