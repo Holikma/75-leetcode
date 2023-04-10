@@ -7,7 +7,6 @@ def twoSum(nums, target):
         m[nums[i]] = i
 
 def main():
-    print(twoSum([3,2,4], 6)) 
     return 0
 
 if __name__ == "__main__":
