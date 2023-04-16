@@ -1,0 +1,11 @@
+---
+title: "new"
+format: html
+---
+## Code
+
+**smrtrret** \
+*quarto*
+ ```{r}
+2 + 2
+``` 
